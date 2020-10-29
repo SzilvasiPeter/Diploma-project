@@ -1,0 +1,9 @@
+Miért hasznos az adatok megjelenítése?
+	books
+		Storytelling with data
+		Cool Infographics
+		Data Visualization Made Simple
+		The functional Art
+	links
+		https://medium.com/analytics-vidhya/importance-of-data-visualization-be16e585ee09
+		https://medium.com/fm-stories/how-to-think-about-data-visualization-1946e42a10ac
