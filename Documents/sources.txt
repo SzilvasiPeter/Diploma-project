@@ -7,3 +7,14 @@ Miért hasznos az adatok megjelenítése?
 	links
 		https://medium.com/analytics-vidhya/importance-of-data-visualization-be16e585ee09
 		https://medium.com/fm-stories/how-to-think-about-data-visualization-1946e42a10ac
+		
+Problémakör ismertetése
+	books
+		Machine Learning by O'Reilly
+		Feature Engineering for Machine Learning O'Reilly
+		Deep Learning CookBook O'Reilly
+		Data science from scratch
+	links
+		https://medium.com/ai-io/why-big-data-and-machine-learning-are-important-in-our-society-b4e708d2c654
+		https://medium.com/@urvashilluniya/why-data-normalization-is-necessary-for-machine-learning-models-681b65a05029
+		https://medium.com/swlh/data-preparation-techniques-and-its-importance-in-machine-learning-4a9df5d258c0
