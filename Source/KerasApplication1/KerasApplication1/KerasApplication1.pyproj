@@ -16,6 +16,8 @@
     <CommandLineArguments>--input_dir . --output_dir .</CommandLineArguments>
     <Name>KerasApplication1</Name>
     <RootNamespace>KerasApplication1</RootNamespace>
+    <InterpreterId>
+    </InterpreterId>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
