@@ -1,3 +1,6 @@
+Big overview
+	https://www.infoworld.com/article/3214424/what-is-machine-learning-intelligence-derived-from-data.html
+
 Miért hasznos az adatok megjelenítése?
 	books
 		Storytelling with data
@@ -18,3 +21,11 @@ Problémakör ismertetése
 		https://medium.com/ai-io/why-big-data-and-machine-learning-are-important-in-our-society-b4e708d2c654
 		https://medium.com/@urvashilluniya/why-data-normalization-is-necessary-for-machine-learning-models-681b65a05029
 		https://medium.com/swlh/data-preparation-techniques-and-its-importance-in-machine-learning-4a9df5d258c0
+		
+		
+Data source links
+	https://www.kaggle.com/dipam7/student-grade-prediction?select=student-mat.csv
+	https://www.kaggle.com/spscientist/students-performance-in-exams
+	https://www.kaggle.com/muthupk84/student-score
+	https://www.kaggle.com/janiobachmann/math-students
+	https://www.kaggle.com/econdata/pisa-test-scores
