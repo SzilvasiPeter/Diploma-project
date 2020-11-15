@@ -22,6 +22,14 @@ Problémakör ismertetése
 		https://medium.com/@urvashilluniya/why-data-normalization-is-necessary-for-machine-learning-models-681b65a05029
 		https://medium.com/swlh/data-preparation-techniques-and-its-importance-in-machine-learning-4a9df5d258c0
 		
+	Az adatforrás a kezdetek kezdete
+		Adatforrás gyűjtemények helye
+			https://www.mygreatlearning.com/blog/sources-for-analytics-and-machine-learning-datasets/
+			https://altexsoft.medium.com/best-public-datasets-for-machine-learning-and-data-science-sources-and-advice-on-the-choice-636a0e754052
+		Hogyan keressünk könnyeden adatkészletet?
+			https://www.blog.google/products/search/making-it-easier-discover-datasets/
+		Címkézési probléma
+			https://www.altexsoft.com/blog/datascience/how-to-organize-data-labeling-for-machine-learning-approaches-and-tools/?utm_source=MediumCom&utm_medium=referral&utm_campaign=shared
 		
 Data source links
 	https://www.kaggle.com/dipam7/student-grade-prediction?select=student-mat.csv
