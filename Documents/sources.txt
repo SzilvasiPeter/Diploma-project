@@ -30,6 +30,14 @@ Problémakör ismertetése
 			https://www.blog.google/products/search/making-it-easier-discover-datasets/
 		Címkézési probléma
 			https://www.altexsoft.com/blog/datascience/how-to-organize-data-labeling-for-machine-learning-approaches-and-tools/?utm_source=MediumCom&utm_medium=referral&utm_campaign=shared
+			
+		Adatok strukturáltságának változatai
+			https://www.astera.com/type/blog/structured-semi-structured-and-unstructured-data/
+			
+Adatelemzés lépései és adathalmazok ismertetése
+	Adat a gépi tanulásban	
+		Az adat
+			https://machinelearningmastery.com/data-learning-and-modeling/
 		
 Data source links
 	https://www.kaggle.com/dipam7/student-grade-prediction?select=student-mat.csv
