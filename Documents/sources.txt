@@ -17,6 +17,8 @@ Problémakör ismertetése
 		Feature Engineering for Machine Learning O'Reilly
 		Deep Learning CookBook O'Reilly
 		Data science from scratch
+		http://bit.ly/338ozjK: Machine Learning with R, the tidyverse, and mlr (train/test split)
+		Introducing Data Science: https://livebook.manning.com/book/introducing-data-science/chapter-1/1
 	links
 		https://medium.com/ai-io/why-big-data-and-machine-learning-are-important-in-our-society-b4e708d2c654
 		https://medium.com/@urvashilluniya/why-data-normalization-is-necessary-for-machine-learning-models-681b65a05029
