@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.1267
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "KerasApplication1", "KerasApplication1\KerasApplication1.pyproj", "{09923E32-43EB-4F30-B99B-10C904FEDE29}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DataSegregation", "DataSegregation\DataSegregation.pyproj", "{0F739EAC-6D07-4339-97F1-5407D99B9C60}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,8 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{09923E32-43EB-4F30-B99B-10C904FEDE29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{09923E32-43EB-4F30-B99B-10C904FEDE29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F739EAC-6D07-4339-97F1-5407D99B9C60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F739EAC-6D07-4339-97F1-5407D99B9C60}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
