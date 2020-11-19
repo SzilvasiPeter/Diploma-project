@@ -1,0 +1,87 @@
+#########
+layers: 32-16-8-1, loss=mse, optimizer=adam, epochs=40
+random_state: 1
+Mean squared error on train:  0.4824957072162275
+Mean squared error on test:  0.7779025947104026
+Error difference:  -0.2954068874941751
+
+Mean squared error on train:  1.9456716751500254
+Mean squared error on test:  1.6882955413012353
+Error difference:  0.2573761338487901
+
+Mean squared error on train:  0.9572120066980215
+Mean squared error on test:  1.0246727896500285
+Error difference:  -0.06746078295200697
+
+Mean squared error on train:  0.9842951490201913
+Mean squared error on test:  1.0150688746561642
+Error difference:  -0.030773725635972915
+
+Mean squared error on train:  0.4670987346267783
+Mean squared error on test:  0.7544479109415185
+Error difference:  -0.2873491763147402
+
+random_state: 7
+Mean squared error on train:  2.090213729389715
+Mean squared error on test:  1.4359899245233134
+Error difference:  0.6542238048664017
+
+Mean squared error on train:  0.536484538768065
+Mean squared error on test:  0.5387593512812644
+Error difference:  -0.002274812513199387
+
+Mean squared error on train:  0.6603739962649797
+Mean squared error on test:  0.5809064577707568
+Error difference:  0.07946753849422294
+
+Mean squared error on train:  0.6976013692019284
+Mean squared error on test:  0.6628213361630344
+Error difference:  0.03478003303889399
+
+Mean squared error on train:  3.2684871165549643
+Mean squared error on test:  2.2523867189503166
+Error difference:  1.0161003976046477
+
+#######
+layers: 20-5-1, loss=mse, optimizer=adam, epochs=20
+random_state: 1
+Mean squared error on train:  4.709144778644545
+Mean squared error on test:  3.856527945541675
+Error difference:  0.8526168331028696
+
+Mean squared error on train:  0.4729237767151681
+Mean squared error on test:  0.7391297938446784
+Error difference:  -0.26620601712951025
+
+Mean squared error on train:  0.469762108825593
+Mean squared error on test:  0.74826697250812
+Error difference:  -0.278504863682527
+
+Mean squared error on train:  0.5089684879727857
+Mean squared error on test:  0.7615211588384962
+Error difference:  -0.25255267086571054
+
+Mean squared error on train:  8.469470995747322
+Mean squared error on test:  6.829854105453001
+Error difference:  1.6396168902943211
+
+random_state: 7
+Mean squared error on train:  13.890159780323243
+Mean squared error on test:  9.772035248035891
+Error difference:  4.118124532287352
+
+Mean squared error on train:  25.459533911236683
+Mean squared error on test:  17.787888227168455
+Error difference:  7.671645684068228
+
+Mean squared error on train:  2.4339118969683886
+Mean squared error on test:  1.6822841349031536
+Error difference:  0.751627762065235
+
+Mean squared error on train:  1.9394351000793728
+Mean squared error on test:  1.4484479763745175
+Error difference:  0.4909871237048553
+
+Mean squared error on train:  38.651801058182535
+Mean squared error on test:  27.02359444553752
+Error difference:  11.628206612645016
