@@ -85,3 +85,12 @@ Error difference:  0.4909871237048553
 Mean squared error on train:  38.651801058182535
 Mean squared error on test:  27.02359444553752
 Error difference:  11.628206612645016
+
+#####
+KFOLD
+layers 20-5-1, loss=mse, optimizer=adam, epochs=20
+Average train test error diff:  -0.417124858945095
+Average train test error diff:  0.5809101832495003
+Average train test error diff:  -0.019804980479560252
+Average train test error diff:  0.4297972603282248
+Average train test error diff:  0.25104169419165123
