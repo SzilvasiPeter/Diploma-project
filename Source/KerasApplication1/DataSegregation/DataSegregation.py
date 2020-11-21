@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_squared_error
+from sklearn.model_selection import KFold
 
 from tensorflow.keras import Sequential
 from tensorflow.keras.layers import Dense
@@ -11,14 +12,15 @@ from tensorflow.keras.layers import Dense
 
 def data_segregation():
     X, y = load_data()
-    X_train, y_train, X_test, y_test = train_test_split(X, y, test_size=0.20, random_state=7) # 1 or 7 randomstate
-    visualize_datasets(X_train, y_train, X_test, y_test)
-    
-    model = define_model()
-    model.compile(loss='mean_squared_error', optimizer='adam', metrics=['mean_squared_error'])
-    model.fit(X_train, X_test, epochs=20)
+    # X_train, y_train, X_test, y_test = train_test_split(X, y, test_size=0.20, random_state=7) # 1 or 7 randomstate
+    # visualize_datasets(X_train, y_train, X_test, y_test)
 
-    evaluate_model(model, X_train, y_train, X_test, y_test)
+    fold_number = 4
+    kfold_data_split(X, y, fold_number)
+
+    #model = define_model()
+    #model.compile(loss='mean_squared_error', optimizer='adam', metrics=['mean_squared_error'])
+    #model.fit(X_train, X_test, epochs=20)
 
 
 def load_data():
@@ -36,6 +38,25 @@ def load_data():
     y = dataframe[target_column].values
 
     return X, y
+
+
+def kfold_data_split(X, y, fold_number=4):
+    KFCrossValidator = KFold(n_splits=fold_number, shuffle=False)
+    KFdataset = KFCrossValidator.split(X)
+    
+    train_test_error_diff = 0
+    for train_index, test_index in KFdataset:
+        print("TRAIN:", train_index, "TEST:", test_index)
+        X_train, y_train = X[train_index], X[test_index]
+        X_test, y_test = y[train_index], y[test_index]
+
+        model = define_model()
+        model.compile(loss='mean_squared_error', optimizer='adam', metrics=['mean_squared_error'])
+        model.fit(X_train, X_test, epochs=20)
+
+        train_test_error_diff += evaluate_model(model, X_train, y_train, X_test, y_test)
+
+    print('Average train test error diff: ', train_test_error_diff / fold_number)
 
 
 def visualize_datasets(X_train, y_train, X_test, y_test):
@@ -59,7 +80,7 @@ def visualize_datasets(X_train, y_train, X_test, y_test):
 def define_model():
     model = Sequential()
     model.add(Dense(20, input_dim=1, activation="relu"))
-    model.add(Dense(10, activation="relu"))
+    #model.add(Dense(10, activation="relu"))
     model.add(Dense(5, activation="relu"))
     model.add(Dense(1))
 
@@ -77,6 +98,7 @@ def evaluate_model(model, X_train, y_train, X_test, y_test):
   
     print("Error difference: ", train_error - test_error)
 
+    return train_error - test_error
 
 
 if __name__ == "__main__":
