@@ -40,6 +40,13 @@ Adatelemzés lépései és adathalmazok ismertetése
 	Adat a gépi tanulásban	
 		Az adat
 			https://machinelearningmastery.com/data-learning-and-modeling/
+			
+Adattisztítés
+	books
+		Bad Data Handbook by Q. Ethan Mccallum
+		Data Wrangling with Python by Jacqueline Kazil
+		Feature Engineering for Machine Learning by Alice Zheng
+	
 		
 Data source links
 	https://www.kaggle.com/dipam7/student-grade-prediction?select=student-mat.csv
