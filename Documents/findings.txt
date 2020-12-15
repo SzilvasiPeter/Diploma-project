@@ -1,0 +1,20 @@
+neptun email napokba -> Adatbányászat vizsga
+
+kisebb section citation
+általános részből levágni belőle
+
+python környezete
+többet beszélni az architekturáról
+panda DataFrame
+Keras stb.
+
+-konkrétabb rész
+-egyetemi adatok lehet tudunk szerezni
+-diszkrét értékek kódolása
+-redukálni az oszlopokat -> megtartani az eredeti tisztitottat
+-ensemble learning RNN -> layer, neuron, loss: 1 legjobb háló
+
+-attributumok relevancia vizsgálata (feature selection)
+-korreláció attributumok között
+-Hálózat csoport alkotás
+-ensemble hatákényoság
