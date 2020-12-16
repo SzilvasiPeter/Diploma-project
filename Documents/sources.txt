@@ -13,35 +13,35 @@ Miért hasznos az adatok megjelenítése?
 		
 Problémakör ismertetése
 	books
-		Machine Learning by O'Reilly
+		Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow by Aurelien Geron, 2019, USA, O'Reilly Media
 		Feature Engineering for Machine Learning O'Reilly
 		Deep Learning CookBook O'Reilly
-		Data science from scratch
+		Data science from scratch by Joel Grus, 2015, USA ,O'Reilly Media
 		http://bit.ly/338ozjK: Machine Learning with R, the tidyverse, and mlr (train/test split)
 		Introducing Data Science: https://livebook.manning.com/book/introducing-data-science/chapter-1/1
 	links
 		https://medium.com/ai-io/why-big-data-and-machine-learning-are-important-in-our-society-b4e708d2c654
 		https://medium.com/@urvashilluniya/why-data-normalization-is-necessary-for-machine-learning-models-681b65a05029
-		https://medium.com/swlh/data-preparation-techniques-and-its-importance-in-machine-learning-4a9df5d258c0
+		AIi19: https://medium.com/swlh/data-preparation-techniques-and-its-importance-in-machine-learning-4a9df5d258c0
 		
 	Az adatforrás a kezdetek kezdete
 		Adatforrás gyűjtemények helye
-			https://www.mygreatlearning.com/blog/sources-for-analytics-and-machine-learning-datasets/
+			HTi20: https://www.mygreatlearning.com/blog/sources-for-analytics-and-machine-learning-datasets/
 			https://altexsoft.medium.com/best-public-datasets-for-machine-learning-and-data-science-sources-and-advice-on-the-choice-636a0e754052
 		Hogyan keressünk könnyeden adatkészletet?
-			https://www.blog.google/products/search/making-it-easier-discover-datasets/
+			Nat18: https://www.blog.google/products/search/making-it-easier-discover-datasets/
 		Címkézési probléma
 			https://www.altexsoft.com/blog/datascience/how-to-organize-data-labeling-for-machine-learning-approaches-and-tools/?utm_source=MediumCom&utm_medium=referral&utm_campaign=shared
 			
 		Adatok strukturáltságának változatai
-			https://www.astera.com/type/blog/structured-semi-structured-and-unstructured-data/
+			Teh20: https://www.astera.com/type/blog/structured-semi-structured-and-unstructured-data/
 			
 Adatelemzés lépései és adathalmazok ismertetése
 	Adat a gépi tanulásban	
 		Az adat
-			https://machinelearningmastery.com/data-learning-and-modeling/
+			Jas17: https://machinelearningmastery.com/data-learning-and-modeling/
 			
-Adattisztítés
+Adattisztítás
 	books
 		Bad Data Handbook by Q. Ethan Mccallum
 		Data Wrangling with Python by Jacqueline Kazil
