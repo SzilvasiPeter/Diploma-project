@@ -13,10 +13,10 @@ Miért hasznos az adatok megjelenítése?
 		
 Problémakör ismertetése
 	books
-		Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow by Aurelien Geron, 2019, USA, O'Reilly Media
+		+Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow by Aurelien Geron, 2019, USA, O'Reilly Media
 		Feature Engineering for Machine Learning O'Reilly
 		Deep Learning CookBook O'Reilly
-		Data science from scratch by Joel Grus, 2015, USA ,O'Reilly Media
+		+Data science from scratch by Joel Grus, 2015, USA ,O'Reilly Media
 		http://bit.ly/338ozjK: Machine Learning with R, the tidyverse, and mlr (train/test split)
 		Introducing Data Science: https://livebook.manning.com/book/introducing-data-science/chapter-1/1
 	links
