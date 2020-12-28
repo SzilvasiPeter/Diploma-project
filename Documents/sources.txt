@@ -8,7 +8,7 @@ Big overview
 
 Miért hasznos az adatok megjelenítése?
 	books
-		Storytelling with data
+		+Storytelling with data
 		Cool Infographics
 		Data Visualization Made Simple
 		The functional Art
@@ -48,6 +48,7 @@ Adatelemzés lépései és adathalmazok ismertetése
 			+Jas17: https://machinelearningmastery.com/data-learning-and-modeling/
 			
 Adattisztítás
+	+Label and one hot encoding: https://towardsdatascience.com/categorical-encoding-using-label-encoding-and-one-hot-encoder-911ef77fb5bd
 	books
 		Bad Data Handbook by Q. Ethan Mccallum
 		Data Wrangling with Python by Jacqueline Kazil
