@@ -1,0 +1,11 @@
+A legtöbb számítógép gépi nyelvű programozása - különösen a B/K műveletekre gondoljunk - bonyolult, sok odafigyelést igénylő munka.
+Jól kell ismerni az architektúrát (az első értelemben vett módon!), a hardver részleteket.
+Gondoljunk végig például egy floppy diszk blokk behozatal forgatókönyvet!
+A legtöbb programozó (nemis beszélve az általános felhasználóról) nincs olyan intim kapcsolatba az architektúrával, hogy ezt le tudná programozni!
+Az operációs rendszer - mint kiterjesztett gép - magasabb absztrakciós szintet biztosít a felhasználó számára.
+Az eszközöket és állományokat szimbolikus nevekenengedi kezelni, ezekben magasabb szintű operációkat biztosít (pl. open, read, write rendszerhívásokat(system calls, lásd később részletesebben)), sőt, az operációs rendekhez kötődő parancsértelmezőkkelmég magasabb szintű parancsokat (pl. copy, move, stb.).
+Úgy is mondhatjuk, ebből a szempontból nézve az operációs rendszer elrejti a részleteket a felhasználó elől, levesz bizonyos felelősségetafelhasználó válláról, akár különböző architektúrákon is biztosítja helyettesíthetőségét, egységességetbiztosít a hasonló de részleteikben nagyban különböző eszközök (pl.: floppy diszkek és hard diszkek) kezelésére.
+Ez egy felülről lefelé (top-down) megközelítése aproblémának.
+A virtuális gépet, amit az operációs rendszer biztosít, könnyebb programozni, mint az alatta létező hardvert.
+Persze, hogy ezt hogyan biztosítja, ez egy hosszú történet, az Operációs rendszerek tárgy egyik célja, hogy ezt is megismerjük.
+Ha úgy tetszik, ebből aszempontból kényelmessé teszi(convenience for the users) az operációs rendszer a hardver használatot. 
