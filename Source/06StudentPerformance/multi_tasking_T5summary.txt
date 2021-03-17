@@ -1,0 +1,5 @@
+tokenizer.encode(text, return_tensors='pt', max_length=512, truncation=True)
+my_model.generate(input_ids, min_length=60, max_length=180, length_penalty=4.0)
+
+<pad> a time-shared operating system allows users to share a computer at a time. the operating system allows the users to interact with each program while it is running. a time-shared operating system uses the concept of CPU scheduling and multiprogramming. a user has at least one separate program in memory.</s>
+#####

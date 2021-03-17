@@ -1,0 +1,8 @@
+summary_ids = my_model.generate(input_ids, num_beams=4,
+                                    no_repeat_ngram_size=2,
+                                    min_length=30,
+                                    max_length=100,
+                                    early_stopping=True)
+									
+operating system (OS) manages all of the software and hardware on a computer. it also allows you to communicate with the computer without knowing how to speak the language of your computer's computer program, and they all need to access your central processing unit (CPU), memory and storage if you have any problems with it. the most common operating systems for personal computers are Microsoft Windows, macOS and Linux.
+##################
