@@ -1,0 +1,6 @@
+gpt2-large
+multi_tasking.txt
+
+In summary,  a time -shared operating system is a computer system that enables a user to execute multiple processes simultaneously. 
+Each process may have its own CPU , but each CPU is shared among many processes .
+The process can be terminated or stopped by a special signal , but only when it has completed its tasks.
