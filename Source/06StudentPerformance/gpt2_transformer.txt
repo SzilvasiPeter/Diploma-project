@@ -1,0 +1,7 @@
+https://transformer.huggingface.co/doc/gpt2-large
+
+OS_Extended
+
+In summary , operating systems are programs that run on your computer , and they manage the hardware that makes up your computer,
+like the CPU, memory, storage , and network interfaces. The OS handles most of the tasks in your computer, but it doesn't always take care of
+all the necessary functions , like checking your email or playing music .
