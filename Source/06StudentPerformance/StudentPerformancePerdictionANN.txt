@@ -77,3 +77,36 @@ dnn_studytime_model
 dnn_model
 3.437827 
 ########################
+
+6. ########################
+mean_absolute_error [G3] 8-4-1 (relu)
+
+studytime_model
+3.535824 
+
+linear_model
+3.547977 
+
+dnn_studytime_model
+3.550696 
+
+dnn_model
+3.918336 
+########################
+
+7. ########################
+
+mean_absolute_error [G3] 8-4-1 (relu)
+
+studytime_model
+3.537366 
+
+linear_model
+3.388921
+
+dnn_studytime_model
+3.433533 
+
+dnn_model
+3.389491 
+########################
