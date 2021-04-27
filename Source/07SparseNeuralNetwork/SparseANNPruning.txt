@@ -1,0 +1,30 @@
+Baseline mean absolute error: 3.3839049339294434
+Saved baseline model to: C:\Users\z0042fkb\AppData\Local\Temp\tmpt7_s684m.h5
+
+Pruned mean absolute error: 3.277818441390991
+Saved baseline model to: C:\Users\z0042fkb\AppData\Local\Temp\tmpn6odn1lf.h5
+
+Saved pruned TFLite model to: C:\Users\z0042fkb\AppData\Local\Temp\tmp4f__pefl.tflite
+
+Size of gzipped baseline Keras model: 9866.00 bytes
+Size of gzipped pruned Keras model: 6795.00 bytes
+Size of gzipped pruned TFlite model: 6005.00 bytes
+
+#####################################################
+
+Baseline mean absolute error: 3.503624200820923
+Saved baseline model to: C:\Users\z0042fkb\AppData\Local\Temp\tmpbr8qi9d3.h5
+
+Baseline mean absolute error: 3.503624200820923
+Pruned mean absolute error: 5.358527660369873
+
+Baseline mean absolute error: 3.503624200820923
+Pruned mean absolute error: 3.6340973377227783
+Saved pruned Keras model to: C:\Users\z0042fkb\AppData\Local\Temp\tmpjlwj9uj3.h5
+Saved pruned TFLite model to: C:\Users\z0042fkb\AppData\Local\Temp\tmp4f__pefl.tflite
+
+Size of gzipped baseline Keras model: 9916.00 bytes
+Size of gzipped pruned Keras model: 6842.00 bytes
+Size of gzipped pruned TFlite model: 5971.00 bytes
+
+#####################################################
