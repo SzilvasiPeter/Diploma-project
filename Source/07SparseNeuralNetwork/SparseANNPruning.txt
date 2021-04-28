@@ -1,3 +1,5 @@
+#####################################################
+epoch: 2
 Baseline mean absolute error: 3.3839049339294434
 Saved baseline model to: C:\Users\z0042fkb\AppData\Local\Temp\tmpt7_s684m.h5
 
@@ -11,6 +13,7 @@ Size of gzipped pruned Keras model: 6795.00 bytes
 Size of gzipped pruned TFlite model: 6005.00 bytes
 
 #####################################################
+epoch: 2
 
 Baseline mean absolute error: 3.503624200820923
 Saved baseline model to: C:\Users\z0042fkb\AppData\Local\Temp\tmpbr8qi9d3.h5
@@ -27,4 +30,40 @@ Size of gzipped baseline Keras model: 9916.00 bytes
 Size of gzipped pruned Keras model: 6842.00 bytes
 Size of gzipped pruned TFlite model: 5971.00 bytes
 
+#####################################################
+epoch: 2
+
+Baseline mean absolute error: 3.384648084640503
+Pruned mean absolute error: 4.181692600250244
+
+Saved baseline model to: C:\Users\z0042fkb\AppData\Local\Temp\tmp6_40wc22.h5
+Saved pruned Keras model to: C:\Users\z0042fkb\AppData\Local\Temp\tmpoxz5ghbm.h5
+
+Size of gzipped baseline Keras model: 9886.00 bytes
+Size of gzipped pruned Keras model: 6823.00 bytes
+Size of gzipped pruned TFlite model: 5941.00 bytes
+
+#####################################################
+epoch: 4
+
+Baseline mean absolute error: 3.4953389167785645
+Pruned mean absolute error: 3.643183946609497
+
+Baseline mean absolute error: 3.695019245147705
+Pruned mean absolute error: 3.6739559173583984
+
+Baseline mean absolute error: 3.66666841506958
+Pruned mean absolute error: 3.665585994720459
+
+#####################################################
+epoch:8
+
+Baseline mean absolute error: 3.6481285095214844
+Pruned mean absolute error: 3.6767160892486572
+
+Baseline mean absolute error: 3.70527982711792
+Pruned mean absolute error: 3.7090964317321777
+
+Baseline mean absolute error: 3.8007121086120605
+Pruned mean absolute error: 3.7642366886138916
 #####################################################
