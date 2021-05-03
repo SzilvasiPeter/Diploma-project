@@ -1,0 +1,9 @@
+Among other things, a multiprogramming operating system kernel must be responsible for managing all system memory which is currently in use by programs.
+This ensures that a program does not interfere with memory already in use by another program.
+Since programs time share, each program must have independent access to memory.
+
+Cooperative memory management, used by many early operating systems, assumes that all programs make voluntary use of the kernel's memory manager, and do not exceed their allocated memory.
+This system of memory management is almost never seen any more, since programs often contain bugs which can cause them to exceed their allocated memory.
+If a program fails, it may cause memory used by one or more other programs to be affected or overwritten.
+Malicious programs or viruses may purposefully alter another program's memory, or may affect the operation of the operating system itself.
+With cooperative memory management, it takes only one misbehaved program to crash the system.

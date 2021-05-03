@@ -1,0 +1,12 @@
+Multitasking is when multiple jobs are executed by the CPU simultaneously by switching between them. Switches occur so frequently that the users may interact with each program while it is running.
+The user gives instructions to the operating system or to a program directly, and receives an immediate response.
+The OS handles multitasking in the way that it can handle multiple operations/executes multiple programs at a time.
+Multitasking Operating Systems are also known as Time-sharing systems.
+These Operating Systems were developed to provide interactive use of a computer system at a reasonable cost.
+A time-shared operating system uses the concept of CPU scheduling and multiprogramming to provide each user with a small portion of a time-shared CPU.
+Each user has at least one separate program in memory.
+A program that is loaded into memory and is executing is commonly referred to as a process.
+When a process executes, it typically executes for only a very short time before it either finishes or needs to perform I/O.
+Since interactive I/O typically runs at slower speeds, it may take a long time to complete. During this time, a CPU can be utilized by another process.
+The operating system allows the users to share the computer simultaneously. Since each action or command in a time-shared system tends to be short, only a little CPU time is needed for each user.
+As the system switches CPU rapidly from one user/program to the next, each user is given the impression that he/she has his/her own CPU, whereas actually one CPU is being shared among many users.
