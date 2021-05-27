@@ -1,0 +1,11 @@
+1. Collection data to transfer it to knowledge and use it.
+It is similar the Machine Learning(ML) and Human Learning (HL). Make parrallel for ML and HL. Collection data, transform/clean, use/train, validate.
+2. Demonstrate Own experiments and implementation
+2.1. Get Data, Clean Data, Visualize Data
+2.2. First exp. -> Split Data
+2.3. Neural network structure. 2nd exp. complex structure -> simple structure
+2.4. Sparse neural network. Place into the conext -> history/story about human brain vs machine "brain" (ANN). We can learn from mother nature.
+Pruning the neural network. Experiment results/outcomes. (Maybe visualize why this happening)
+2.5. Summarization. Extractive & Abstractive (GPT). Little side-note about commmon-sense.
+2.6. QA system. The prototype (4phase). Using the BERT model. Performance of pruned-BERT models
+3. Future development: NAS, fine-tune BERT, FL, Cloud
