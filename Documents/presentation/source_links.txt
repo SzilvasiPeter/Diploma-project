@@ -1,1 +1,8 @@
 What I learned from reading BERT (Paper Explained): https://www.youtube.com/watch?v=yCj8jHnm5OQ
+
+Transformer Neural Networks - EXPLAINED! (Attention is all you need): https://www.youtube.com/watch?v=TQQlZhbC5ps
+BERT Neural Network - EXPLAINED!: https://www.youtube.com/watch?v=xI0HHN5XKDo
+
+Attention: https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/
+Transformers: https://jalammar.github.io/illustrated-transformer/
+BERT: http://jalammar.github.io/illustrated-bert/
